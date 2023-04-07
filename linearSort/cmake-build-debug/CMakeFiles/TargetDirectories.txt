@@ -1,0 +1,3 @@
+/Users/viktor/Desktop/Programming/UniLabsCPP/linearSort/cmake-build-debug/CMakeFiles/linearSort.dir
+/Users/viktor/Desktop/Programming/UniLabsCPP/linearSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/viktor/Desktop/Programming/UniLabsCPP/linearSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
