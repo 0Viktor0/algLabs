@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1677661906 source:c:\users\dummy\desktop\‘Â—-12\vilson\quick_sort\sort.cpp
+	"Sort.h"
+
+1677662086 c:\users\dummy\desktop\‘Â—-12\vilson\quick_sort\sort.h
+	<iostream>
+
+1677662147 source:c:\users\dummy\desktop\‘Â—-12\vilson\quick_sort\main.cpp
+	"Sort.h"
+
