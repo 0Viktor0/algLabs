@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680081776 source:c:\users\dummy\desktop\‘Â—-12\vilson\nonlinearlists\tree.cpp
+	"tree.h"
+
+1678269379 c:\users\dummy\desktop\‘Â—-12\vilson\nonlinearlists\tree.h
+	<cstddef>
+	<iostream>
+
+1680081423 source:c:\users\dummy\desktop\‘Â—-12\vilson\nonlinearlists\main.cpp
+	"tree.h"
+
