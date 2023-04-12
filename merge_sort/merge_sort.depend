@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1677660060 source:c:\users\dummy\desktop\‘Â—-12\vilson\merge_sort\sort.cpp
+	"Sort.h"
+
+1677659662 c:\users\dummy\desktop\‘Â—-12\vilson\merge_sort\sort.h
+	<iostream>
+
+1677660263 source:c:\users\dummy\desktop\‘Â—-12\vilson\merge_sort\main.cpp
+	"Sort.h"
+
